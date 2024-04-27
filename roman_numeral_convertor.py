@@ -18,7 +18,7 @@ def roman_to_int(roman):
     
     return result
 
-roman_numeral_input = input("\nEnter the roman numerals that you want to convert: ")
+roman_numeral_input = input("\nEnter the Roman Numerals that you want to convert: ")
 
 int_equivalent = roman_to_int(roman_numeral_input)
 
